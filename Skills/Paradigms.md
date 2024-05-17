@@ -5,19 +5,19 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming h
-  - Prototype-based programming h
-  - Object-oriented programming e
-  - Object-based programming h
-  - Generic programming h
+  - Functional programming: 👂 heard
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
   - Concurrent computing
-  - Asynchronous programming e
-  - Parallel programming k
+  - Asynchronous programming: 🙋 explained
+  - Parallel programming: 🎓 known
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming h
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method k
-  - Getters, Setters u
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance u
-  - Parent class u
-  - Polymorphism u
-  - Abstract class k
-  - Interface k
-  - Encapsulation u
-  - Hidden class k
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🎓 known
   - Object form
-  - Instance u
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,8 +64,8 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton h
-  - Factory Method h
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
   - Observer

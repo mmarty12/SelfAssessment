@@ -6,28 +6,28 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection h
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules h
+  - CommonJS modules: 👂 heard
   - ECMAScript modules
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` u
-  - Files `package.json`, `package-lock.json` u
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
-  - Isolation with modularity k
-  - Dependency injection u
+  - Isolation with modularity: 🎓 known
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI u
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -67,10 +67,10 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S) h
-  - TCP/SSL h
-  - UDP h
-  - TLS h
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
+  - UDP: 👂 heard
+  - TLS: 👂 heard
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
@@ -83,34 +83,34 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS h
+  - DNS: 👂 heard
   - SQL injection
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging u
-  - Application configuring u
-  - Testing e
-  - CI/CD u
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🙋 explained
+  - CI/CD: 🖐️ used
   - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console u
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
-  - Repository u
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD k
+  - CRUD: 🎓 known
   - DTO
 - Error handling and debugging
-  - `Error` u
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
   - `error.message`
@@ -121,7 +121,7 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks h
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory h
+  - Shared memory: 👂 heard
   - V8 binary serialization
