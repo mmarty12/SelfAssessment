@@ -6,28 +6,28 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection h
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules h
   - ECMAScript modules
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Isolation with modularity k
+  - Dependency injection u
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI u
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -67,10 +67,10 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S) h
+  - TCP/SSL h
+  - UDP h
+  - TLS h
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
@@ -83,34 +83,34 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS h
   - SQL injection
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
+  - Logging u
+  - Application configuring u
+  - Testing e
+  - CI/CD u
   - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console u
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository u
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD k
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` u
   - `error.cause`
   - `error.code`
   - `error.message`
@@ -121,7 +121,7 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
+  - Memory leaks h
   - Resource leaks
   - Data race
 - Integrations and bindings
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
+  - Shared memory h
   - V8 binary serialization
