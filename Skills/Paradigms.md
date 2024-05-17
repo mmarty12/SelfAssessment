@@ -5,19 +5,19 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Functional programming: 👂 heard
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Asynchronous programming: 🙋 explained
+  - Parallel programming: 🎓 known
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🎓 known
   - Object form
-  - Instance
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -64,8 +64,8 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
   - Observer

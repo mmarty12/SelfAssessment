@@ -1,11 +1,11 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity: 🙋 explained
+  - Components: 🙋 explained
+  - Directories: 🙋 explained
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -14,17 +14,17 @@
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage: 🎓 known
   - Cohesion
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer: 🎓 known
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
@@ -32,10 +32,10 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI): 🙋 explained
   - Clean architecture
   - Domain-driven design (DDD)
-  - Pub/sub
+  - Pub/sub: 👂 heard
   - Message brocker
   - Agent
   - Service locator
@@ -45,7 +45,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -74,7 +74,7 @@
   - BPMN
   - Low-code
   - No-code
-  - Metric
+  - Metric: 👂 heard
   - Metric abuse
   - ACID
   - CAP theorem
