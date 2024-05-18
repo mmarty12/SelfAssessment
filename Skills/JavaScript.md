@@ -53,7 +53,7 @@
   - Property descriptors: 🖐️ used
   - Sealing properties h
   - Freezing properties h
-  - Computed properties
+  - Computed properties k
   - Instance class fields: 🖐️ used
   - Static class fields: 🖐️ used
   - Private class fields: 🖐️ used
@@ -71,7 +71,7 @@
   - `continue`: 🖐️ used
   - `import`: 🖐️ used
   - `export`: 🖐️ used
-  - `label`
+  - `label` h
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
@@ -93,10 +93,10 @@
   - `Array`: 🖐️ used
   - `Map`: u
   - `Set`: u
-  - `WeakMap`
-  - `WeakSet`
+  - `WeakMap` h
+  - `WeakSet` h
   - Typed arrays: 🎓 known
-  - Mixins
+  - Mixins 
   - `Object.assign` k
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
