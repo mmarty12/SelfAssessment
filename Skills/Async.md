@@ -3,7 +3,7 @@
 - Theory
   - Event loop: 🎓 known
   - `try..catch`: 🖐️ used
-  - Non-blocking
+  - Non-blocking k
   - Async I/O: 👂 heard
   - Thread pool: k
   - Pattern Reactor
