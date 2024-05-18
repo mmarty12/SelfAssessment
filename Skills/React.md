@@ -1,0 +1,95 @@
+## React
+
+- Main concepts
+  - JSX k
+  - Virtual DOM k
+  - Functional component u
+  - Class component u
+  - Dumb component
+  - Smart component
+  - Rendering a component e
+  - Props u
+  - State u
+  - Composing components e
+  - Extracting components e
+  - Lifecycle components k
+  - Conditional rendering e
+  - The Data Flows Down h
+  - Handling Events k
+  - Prevent from Rendering h
+  - Multiple Rendering h
+  - Controlled Components
+  - Lifting State Up h
+  - Composition vs Inheritance 
+  - Code-Splitting k
+  - Bundling k
+  - React.lazy h
+  - Suspense and fallbacks
+  - Named Exports h
+  - React Context h
+  - Context.Provider h
+  - Context.Consumer h
+  - Error Boundaries
+  - Refs
+  - Forwarding refs
+  - Fragments e
+  - Higher-Order Component h
+  - Portals
+  - Profiler
+  - Render Props k
+  - Strict Mode u
+  - Uncontrolled Components h
+- Hooks
+  - useState u
+  - useEffect u
+  - useReducer
+  - useContext
+  - useRef
+  - useCallback
+  - useMemo
+  - useTransition
+  - useDefferedValue
+  - useLayoutEffect
+  - useId
+  - useDebugValue
+  - useImperativeHandle
+  - Custom Hooks h
+- Antipatterns
+  - Props drilling k
+  - Props Plowing
+  - Props mutation
+  - setState() is async k
+  - Nested components e
+  - Huge component trees e
+  - Passing all props with spread everywhere h
+  - Passing too much information to components e
+  - Overoptimizing performance h
+  - Async functions in useEffect h
+  - Multiple useState hooks h
+- Environment
+  - React Router
+  - React Redux h
+  - React Dom u
+  - Redux Thunk
+  - Redux Final Form
+  - Formik
+  - Babel u
+  - Sass u
+  - Tailwind
+  - Styled Components
+  - Next
+  - Vite u
+  - Webpack
+  - Hook form
+  - React DevTool u
+  - Redux DevTools h
+  - Jest u
+  - React Testing Library k
+  - Reselect
+- React Native
+  - Crossplatform Components (View, Text, Image, Picker, etc.)
+  - IOS Components (TabBarIOS, ActionSheetIOS, etc.)
+  - Android components (Android: BackAndroid, ToolbarAndroid, etc.)
+  - Navigator
+  - Styles in React native
+  - <Animated.View>, <Animated.Image>, <Animated.Text>
