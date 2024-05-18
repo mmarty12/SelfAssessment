@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-319&nbsp;/&nbsp;659&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-503&nbsp;/&nbsp;856&nbsp;/&nbsp;901-FF3300?style=flat-square)](https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-319&nbsp;/&nbsp;659&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-503&nbsp;/&nbsp;856&nbsp;/&nbsp;901-FF3300?style=flat-square)](https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-319&nbsp;/&nbsp;659&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-503&nbsp;/&nbsp;856&nbsp;/&nbsp;901-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,31 +15,31 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `17` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `28` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `20` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `30` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `6` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `15` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `20` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `7` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `14` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `18` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `1` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `15` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `20` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `8` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `3` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `54` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `4` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `9` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `3` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `10` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
 | [Async](/Skills/Async.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `9` | `20` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `7` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `10` | `20` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `8` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `2` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `3` | `17` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `0` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `4` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `8` | `17` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `1` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `1` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `5` | `14` |
@@ -51,115 +51,112 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `2` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `1` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `8` | `25` |
-| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `17` | `21` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `14` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `19` | `21` |
 | &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `2` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `1` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `4` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `9` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `4` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `1` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `0` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `11` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `7` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `9` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `7` | `18` |
+| [Java](/Skills/Java.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Code basics | `22` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Methods | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Recursion e | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Classes and objects | `7` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enum classes | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Class Object | `2` | `2` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Packages k | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Object-Oriented Programming (OOP) | `17` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Generics | `4` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functional programming | `4` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Input/Output | `2` | `2` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Readers and Writers | `1` | `1` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Serialization u | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Working with files | `1` | `1` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Multithreading | `10` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Date/Time API u | `0` | `0` |
+| [React](/Skills/React.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `28` | `38` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Hooks | `3` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `9` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `9` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; React Native | `0` | `6` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `...spread` | 🎓 known | ⟶  | 🖐️ used |
-| `...rest` | 🎓 known | ⟶  | 🖐️ used |
-| Destructuring | 🎓 known | ⟶  | 🖐️ used |
-| `Map` | 🎓 known | ⟶  | 🖐️ used |
-| `Set` | 🎓 known | ⟶  | 🖐️ used |
 | Mixins | 🤷 unknown | ⟶  | 🎓 known |
-| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
 | `Proxy` | 👂 heard | ⟶  | 🎓 known |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| Timers | 🎓 known | ⟶  | 🖐️ used |
-| V8 | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `60` of `72` skills, `12` to be upgraded, and `21` above needed
+Total: you have `68` of `72` skills, `4` to be upgraded, and `22` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `...spread` | 🎓 known | ⟶  | 🖐️ used |
-| `...rest` | 🎓 known | ⟶  | 🖐️ used |
-| Destructuring | 🎓 known | ⟶  | 🖐️ used |
 | Generators | 🎓 known | ⟶  | 🖐️ used |
 | Iterators | 🎓 known | ⟶  | 🖐️ used |
 | Async generator | 👂 heard | ⟶  | 🖐️ used |
 | Async iterator | 👂 heard | ⟶  | 🖐️ used |
-| Chaining | 🎓 known | ⟶  | 🖐️ used |
-| IIFE | 🎓 known | ⟶  | 🖐️ used |
 | Async IIFE | 🎓 known | ⟶  | 🖐️ used |
 | `global` | 🎓 known | ⟶  | 🖐️ used |
 | `globalThis` | 👂 heard | ⟶  | 🖐️ used |
 | `yield` | 👂 heard | ⟶  | 🖐️ used |
-| `await` | 🎓 known | ⟶  | 🖐️ used |
 | `delete` | 👂 heard | ⟶  | 🖐️ used |
 | `eval` | 👂 heard | ⟶  | 🎓 known |
 | `Number.parseInt` | 🎓 known | ⟶  | 🖐️ used |
 | `Number.parseFloat` | 🎓 known | ⟶  | 🖐️ used |
-| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Computed properties | 🤷 unknown | ⟶  | 🎓 known |
+| Sealing properties | 👂 heard | ⟶  | 🎓 known |
+| Freezing properties | 👂 heard | ⟶  | 🎓 known |
 | `for await` | 🎓 known | ⟶  | 🖐️ used |
-| Async function | 🎓 known | ⟶  | 🖐️ used |
-| `Map` | 🎓 known | ⟶  | 🖐️ used |
-| `Set` | 🎓 known | ⟶  | 🖐️ used |
-| `WeakMap` | 🤷 unknown | ⟶  | 🎓 known |
-| `WeakSet` | 🤷 unknown | ⟶  | 🎓 known |
+| `WeakMap` | 👂 heard | ⟶  | 🎓 known |
+| `WeakSet` | 👂 heard | ⟶  | 🎓 known |
 | Mixins | 🤷 unknown | ⟶  | 👂 heard |
-| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
 | `Proxy` | 👂 heard | ⟶  | 🎓 known |
 | `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
-| `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | `Promise` | 👂 heard | ⟶  | 🖐️ used |
-| Timers | 🎓 known | ⟶  | 🖐️ used |
-| V8 | 🤷 unknown | ⟶  | 🖐️ used |
+| V8 | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `61` of `98` skills, `37` to be upgraded, and `15` above needed
+Total: you have `74` of `98` skills, `24` to be upgraded, and `15` above needed
 
 ## [Async](/Skills/Async.md)
 
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Non-blocking | 🤷 unknown | ⟶  | 👂 heard |
-| Callbacks | 🎓 known | ⟶  | 🖐️ used |
 | Callback-last-error-first | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise | 🎓 known | ⟶  | 🖐️ used |
-| Async/await | 🎓 known | ⟶  | 🖐️ used |
 | Sync generator | 🤷 unknown | ⟶  | 🎓 known |
 | Async Generator | 👂 heard | ⟶  | 🎓 known |
 | Async Iterator | 🤷 unknown | ⟶  | 🎓 known |
 | Signal | 🎓 known | ⟶  | 🖐️ used |
 | Stream | 🎓 known | ⟶  | 🖐️ used |
-| Locks | 🤷 unknown | ⟶  | 🎓 known |
 | callbackify | 🤷 unknown | ⟶  | 🎓 known |
 | promisify | 🤷 unknown | ⟶  | 🎓 known |
 | asyncify | 🤷 unknown | ⟶  | 🎓 known |
-| EventEmitter | 🤷 unknown | ⟶  | 🖐️ used |
+| EventEmitter | 👂 heard | ⟶  | 🖐️ used |
 | Observable/Observer | 🤷 unknown | ⟶  | 👂 heard |
 | Readable | 🤷 unknown | ⟶  | 🖐️ used |
 | Writable | 🤷 unknown | ⟶  | 🖐️ used |
 | Transform | 🤷 unknown | ⟶  | 🖐️ used |
-| Async Pool | 🤷 unknown | ⟶  | 🎓 known |
+| Async Pool | 👂 heard | ⟶  | 🎓 known |
 | Async Queue | 🤷 unknown | ⟶  | 🎓 known |
 | Async Collector | 🤷 unknown | ⟶  | 🎓 known |
-| Timers | 👂 heard | ⟶  | 🖐️ used |
+| Timers | 🎓 known | ⟶  | 🖐️ used |
 | `setImmediate` | 🤷 unknown | ⟶  | 🖐️ used |
-| `nextTick` | 👂 heard | ⟶  | 🖐️ used |
+| `nextTick` | 🎓 known | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortSignal | 🤷 unknown | ⟶  | 🎓 known |
-| Callback hell | 🤷 unknown | ⟶  | 🎓 known |
-| Promise hell | 🤷 unknown | ⟶  | 🎓 known |
+| Callback hell | 👂 heard | ⟶  | 🎓 known |
+| Promise hell | 👂 heard | ⟶  | 🎓 known |
 | ref() and unref() | 🤷 unknown | ⟶  | 👂 heard |
-| Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
+| Error handling in async code | 🎓 known | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
 | AsyncLocalStorage | 🤷 unknown | ⟶  | 👂 heard |
@@ -168,68 +165,56 @@ Total: you have `61` of `98` skills, `37` to be upgraded, and `15` above needed
 | Promise.all | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.allSettled | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.race | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise.any | 🤷 unknown | ⟶  | 🖐️ used |
+| Promise.any | 👂 heard | ⟶  | 🖐️ used |
 | Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
 | Revealing constructor | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `8` of `50` skills, `42` to be upgraded, and `3` above needed
+Total: you have `13` of `50` skills, `37` to be upgraded, and `7` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Callbacks | 🎓 known | ⟶  | 🖐️ used |
 | Callback-last-error-first | 🤷 unknown | ⟶  | 👂 heard |
-| Promise | 🎓 known | ⟶  | 🖐️ used |
-| Async/await | 🎓 known | ⟶  | 🖐️ used |
 | Async Iterator | 🤷 unknown | ⟶  | 🎓 known |
 | Chain of responsibility | 🤷 unknown | ⟶  | 👂 heard |
 | Middleware | 🤷 unknown | ⟶  | 👂 heard |
-| Locks | 🤷 unknown | ⟶  | 👂 heard |
 | callbackify | 🤷 unknown | ⟶  | 🎓 known |
 | promisify | 🤷 unknown | ⟶  | 🎓 known |
 | asyncify | 🤷 unknown | ⟶  | 🎓 known |
-| EventEmitter | 🤷 unknown | ⟶  | 🖐️ used |
+| EventEmitter | 👂 heard | ⟶  | 🖐️ used |
 | Readable | 🤷 unknown | ⟶  | 🎓 known |
 | Writable | 🤷 unknown | ⟶  | 🎓 known |
 | Transform | 🤷 unknown | ⟶  | 🎓 known |
-| Async Pool | 🤷 unknown | ⟶  | 🎓 known |
+| Async Pool | 👂 heard | ⟶  | 🎓 known |
 | Async Queue | 🤷 unknown | ⟶  | 🎓 known |
 | Async Collector | 🤷 unknown | ⟶  | 🎓 known |
-| Timers | 👂 heard | ⟶  | 🖐️ used |
+| Timers | 🎓 known | ⟶  | 🖐️ used |
 | `setImmediate` | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortSignal | 🤷 unknown | ⟶  | 🎓 known |
-| Callback hell | 🤷 unknown | ⟶  | 🎓 known |
-| Promise hell | 🤷 unknown | ⟶  | 🎓 known |
-| Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
+| Callback hell | 👂 heard | ⟶  | 🎓 known |
+| Promise hell | 👂 heard | ⟶  | 🎓 known |
+| Error handling in async code | 🎓 known | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
 | Promise.all | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.allSettled | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.race | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise.any | 🤷 unknown | ⟶  | 🖐️ used |
+| Promise.any | 👂 heard | ⟶  | 🖐️ used |
 | Revealing constructor | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `5` of `37` skills, `32` to be upgraded, and `0` above needed
+Total: you have `9` of `37` skills, `28` to be upgraded, and `2` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Non-blocking | 🤷 unknown | ⟶  | 🎓 known |
 | Async I/O | 👂 heard | ⟶  | 🎓 known |
-| Thread pool | 👂 heard | ⟶  | 🎓 known |
 | Pattern Reactor | 🤷 unknown | ⟶  | 🎓 known |
 | CAS operations | 🤷 unknown | ⟶  | 👂 heard |
 | libuv | 🤷 unknown | ⟶  | 🎓 known |
-| Race conditions | 🎓 known | ⟶  | 🖐️ used |
-| Dead locks | 🎓 known | ⟶  | 🖐️ used |
 | Live locks | 🤷 unknown | ⟶  | 🖐️ used |
 | Concurrent programming | 🤷 unknown | ⟶  | 🎓 known |
-| Parallel programming | 👂 heard | ⟶  | 🎓 known |
 | Actor Model | 🤷 unknown | ⟶  | 🎓 known |
-| Callbacks | 🎓 known | ⟶  | 🖐️ used |
 | Callback-last-error-first | 🤷 unknown | ⟶  | 🖐️ used |
 | Thenable | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise | 🎓 known | ⟶  | 🖐️ used |
-| Async/await | 🎓 known | ⟶  | 🖐️ used |
 | Future | 🤷 unknown | ⟶  | 👂 heard |
 | Deferred | 🤷 unknown | ⟶  | 👂 heard |
 | Sync generator | 🤷 unknown | ⟶  | 🖐️ used |
@@ -241,34 +226,30 @@ Total: you have `5` of `37` skills, `32` to be upgraded, and `0` above needed
 | Stream | 🎓 known | ⟶  | 🖐️ used |
 | Chain of responsibility | 🤷 unknown | ⟶  | 🖐️ used |
 | Middleware | 🤷 unknown | ⟶  | 🖐️ used |
-| Locks | 🤷 unknown | ⟶  | 🖐️ used |
 | callbackify | 🤷 unknown | ⟶  | 🖐️ used |
 | promisify | 🤷 unknown | ⟶  | 🖐️ used |
 | asyncify | 🤷 unknown | ⟶  | 🖐️ used |
-| EventEmitter | 🤷 unknown | ⟶  | 🖐️ used |
+| EventEmitter | 👂 heard | ⟶  | 🖐️ used |
 | Observable/Observer | 🤷 unknown | ⟶  | 🖐️ used |
 | Readable | 🤷 unknown | ⟶  | 🖐️ used |
 | Writable | 🤷 unknown | ⟶  | 🖐️ used |
 | Transform | 🤷 unknown | ⟶  | 🖐️ used |
-| Async Pool | 🤷 unknown | ⟶  | 🖐️ used |
+| Async Pool | 👂 heard | ⟶  | 🖐️ used |
 | Async Queue | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Collector | 🤷 unknown | ⟶  | 🖐️ used |
-| Semaphore | 👂 heard | ⟶  | 🖐️ used |
-| Mutex | 👂 heard | ⟶  | 🎓 known |
 | Spin Lock | 🤷 unknown | ⟶  | 🎓 known |
-| Timers | 👂 heard | ⟶  | 🖐️ used |
+| Timers | 🎓 known | ⟶  | 🖐️ used |
 | `setImmediate` | 🤷 unknown | ⟶  | 🖐️ used |
-| `nextTick` | 👂 heard | ⟶  | 🖐️ used |
+| `nextTick` | 🎓 known | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortSignal | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise unhandled rejection | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise double resolve | 🤷 unknown | ⟶  | 🖐️ used |
-| Atomics | 👂 heard | ⟶  | 🎓 known |
+| Promise unhandled rejection | 🎓 known | ⟶  | 🖐️ used |
+| Promise double resolve | 🎓 known | ⟶  | 🖐️ used |
 | High resolution clock | 🤷 unknown | ⟶  | 🎓 known |
-| Callback hell | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise hell | 🤷 unknown | ⟶  | 🖐️ used |
+| Callback hell | 👂 heard | ⟶  | 🖐️ used |
+| Promise hell | 👂 heard | ⟶  | 🖐️ used |
 | ref() and unref() | 🤷 unknown | ⟶  | 🖐️ used |
-| Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
+| Error handling in async code | 🎓 known | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | JSON streaming serialization | 🤷 unknown | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 🤷 unknown | ⟶  | 🖐️ used |
@@ -278,13 +259,13 @@ Total: you have `5` of `37` skills, `32` to be upgraded, and `0` above needed
 | Promise.all | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.allSettled | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.race | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise.any | 🤷 unknown | ⟶  | 🖐️ used |
+| Promise.any | 👂 heard | ⟶  | 🖐️ used |
 | Web Locks API | 🤷 unknown | ⟶  | 🎓 known |
 | IPC | 🤷 unknown | ⟶  | 🎓 known |
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
 | Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `5` of `75` skills, `70` to be upgraded, and `0` above needed
+Total: you have `17` of `75` skills, `58` to be upgraded, and `5` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 

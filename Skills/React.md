@@ -1,0 +1,95 @@
+## React
+
+- Main concepts
+  - JSX: 🎓 known
+  - Virtual DOM: 🎓 known
+  - Functional component: 🖐️ used
+  - Class component: 🖐️ used
+  - Dumb component
+  - Smart component
+  - Rendering a component: 🙋 explained
+  - Props: 🖐️ used
+  - State: 🖐️ used
+  - Composing components: 🙋 explained
+  - Extracting components: 🙋 explained
+  - Lifecycle components: 🎓 known
+  - Conditional rendering: 🙋 explained
+  - The Data Flows Down: 👂 heard
+  - Handling Events: 🎓 known
+  - Prevent from Rendering: 👂 heard
+  - Multiple Rendering: 👂 heard
+  - Controlled Components
+  - Lifting State Up: 👂 heard
+  - Composition vs Inheritance
+  - Code-Splitting: 🎓 known
+  - Bundling: 🎓 known
+  - React.lazy: 👂 heard
+  - Suspense and fallbacks
+  - Named Exports: 👂 heard
+  - React Context: 👂 heard
+  - Context.Provider: 👂 heard
+  - Context.Consumer: 👂 heard
+  - Error Boundaries
+  - Refs
+  - Forwarding refs
+  - Fragments: 🙋 explained
+  - Higher-Order Component: 👂 heard
+  - Portals
+  - Profiler
+  - Render Props: 🎓 known
+  - Strict Mode: 🖐️ used
+  - Uncontrolled Components: 👂 heard
+- Hooks
+  - useState: 🖐️ used
+  - useEffect: 🖐️ used
+  - useReducer
+  - useContext
+  - useRef
+  - useCallback
+  - useMemo
+  - useTransition
+  - useDefferedValue
+  - useLayoutEffect
+  - useId
+  - useDebugValue
+  - useImperativeHandle
+  - Custom Hooks: 👂 heard
+- Antipatterns
+  - Props drilling: 🎓 known
+  - Props Plowing
+  - Props mutation
+  - setState() is async: 🎓 known
+  - Nested components: 🙋 explained
+  - Huge component trees: 🙋 explained
+  - Passing all props with spread everywhere: 👂 heard
+  - Passing too much information to components: 🙋 explained
+  - Overoptimizing performance: 👂 heard
+  - Async functions in useEffect: 👂 heard
+  - Multiple useState hooks: 👂 heard
+- Environment
+  - React Router
+  - React Redux: 👂 heard
+  - React Dom: 🖐️ used
+  - Redux Thunk
+  - Redux Final Form
+  - Formik
+  - Babel: 🖐️ used
+  - Sass: 🖐️ used
+  - Tailwind
+  - Styled Components
+  - Next
+  - Vite: 🖐️ used
+  - Webpack
+  - Hook form
+  - React DevTool: 🖐️ used
+  - Redux DevTools: 👂 heard
+  - Jest: 🖐️ used
+  - React Testing Library: 🎓 known
+  - Reselect
+- React Native
+  - Crossplatform Components (View, Text, Image, Picker, etc.)
+  - IOS Components (TabBarIOS, ActionSheetIOS, etc.)
+  - Android components (Android: BackAndroid, ToolbarAndroid, etc.)
+  - Navigator
+  - Styles in React native
+  - <Animated.View>, <Animated.Image>, <Animated.Text>

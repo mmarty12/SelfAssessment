@@ -1,0 +1,100 @@
+## Java
+
+- Code basics
+  - Variables: 🖐️ used
+  - Primitive types: 🖐️ used
+  - String: 🖐️ used
+  - Object: 🖐️ used
+  - Arithmetic operators: 🖐️ used
+  - Boolean operators: 🖐️ used
+  - Complex conditions: 🖐️ used
+  - if/else: 🖐️ used
+  - switch: 🖐️ used
+  - Arrays: 🖐️ used
+  - for loop: 🖐️ used
+  - while loop: 🖐️ used
+  - do ... while loop: 🖐️ used
+  - foreach loop: 🎓 known
+  - try/catch: 🖐️ used
+  - Checked exceptions: 🖐️ used
+  - Unchecked exceptions: 👂 heard
+  - Errors: 🖐️ used
+  - List: 🖐️ used
+  - Set: 🖐️ used
+  - Map: 🖐️ used
+  - Collection, Iterable: 🎓 known
+- Methods
+  - Arguments: 🖐️ used
+  - Return type: 🖐️ used
+  - Method signature: 🎓 known
+  - Method overloading: 🎓 known
+  - varargs: 🎓 known
+- Recursion e
+- Classes and objects
+  - Properties: 🖐️ used
+  - Methods: 🖐️ used
+  - static: 🖐️ used
+  - Constructors: 🖐️ used
+  - final: 🖐️ used
+  - this: 🖐️ used
+  - Initializer
+  - Mutable and immutable objects: 🎓 known
+- Enum classes
+- Class Object
+  - toString(): 🖐️ used
+  - equals(), hashcode(): 🖐️ used
+- Packages k
+- Object-Oriented Programming (OOP)
+  - Abstraction: 🎓 known
+  - Encapsulation: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🎓 known
+  - Abstract method: 🎓 known
+  - Interface: 🎓 known
+  - final class: 🎓 known
+  - final method: 🎓 known
+  - final property: 🎓 known
+  - Nested class: 🙋 explained
+  - Inner class: 🙋 explained
+  - public: 🖐️ used
+  - private: 🖐️ used
+  - protected: 🖐️ used
+  - package-private: 🙋 explained
+  - Cast operator
+  - instanceof: 🙋 explained
+- Generics
+  - Class with type arguments: 🖐️ used
+  - Method with type arguments: 🖐️ used
+  - Bounded type arguments: 🎓 known
+  - Type erasure
+  - Type inference
+  - Diamond operator <>: 🙋 explained
+  - Unbounded wildcard
+  - Upper-bounded wildcard
+  - Lower-bounded wildcard
+- Functional programming
+  - Functional interfaces: 🎓 known
+  - Lambdas: 🖐️ used
+  - Method references: 🎓 known
+  - Java Stream API: 🖐️ used
+- Input/Output
+  - InputStream and OutputStream: 🖐️ used
+  - `try/catch` with resource: 🖐️ used
+- Readers and Writers
+  - `OutputStreamWriter`: 🙋 explained
+- Serialization u
+- Working with files
+  - `BufferedOutputStream`: 🙋 explained
+- Multithreading
+  - Thread: 🖐️ used
+  - Runnable: 🖐️ used
+  - Semaphore: 🖐️ used
+  - Lock: 🖐️ used
+  - Atomic types and operations: 🖐️ used
+  - Monitors: 🖐️ used
+  - synchronized methods: 🖐️ used
+  - synchronized blocks: 🖐️ used
+  - Synchronized collections: 🎓 known
+  - Dead locks, race conditions: 🖐️ used
+- Date/Time API u

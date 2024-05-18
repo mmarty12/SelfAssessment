@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store: 🙋 explained
   - Tuple store
-  - Graph databases
-  - Object databases
+  - Graph databases: 🎓 known
+  - Object databases: 🎓 known
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -22,7 +22,7 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram: 🙋 explained
   - Normal forms
   - Indexing
   - Primary keys
@@ -31,34 +31,34 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions: 👂 heard
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN`: 👂 heard
   - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
+  - `LEFT JOIN`: 👂 heard
+  - `RIGHT JOIN`: 👂 heard
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
+  - `WHERE`: 👂 heard
+  - `LIKE`: 👂 heard
+  - `IN`: 👂 heard
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE`: 🎓 known
   - `ALTER TABLE`
-  - `DROP TABLE`
+  - `DROP TABLE`: 🎓 known
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
@@ -72,23 +72,23 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite: 👂 heard
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
   - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard

@@ -3,9 +3,9 @@
 - Theory
   - Event loop: 🎓 known
   - `try..catch`: 🖐️ used
-  - Non-blocking
+  - Non-blocking: 🎓 known
   - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,20 +13,20 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions: 🎓 known
-  - Dead locks: 🎓 known
+  - Race conditions: 🙋 explained
+  - Dead locks: 🙋 explained
   - Live locks
   - Concurrent programming
-  - Parallel programming: 👂 heard
+  - Parallel programming: 🙋 explained
   - Actor Model
   - Thread: 🖐️ used
   - Process: 🖐️ used
 - Async contracts
-  - Callbacks: 🎓 known
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise: 🎓 known
-  - Async/await: 🎓 known
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -39,7 +39,7 @@
   - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,31 +47,31 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 👂 heard
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool
+  - Async Pool: 👂 heard
   - Async Queue
   - Async Collector
-  - Semaphore: 👂 heard
-  - Mutex: 👂 heard
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
+  - Timers: 🎓 known
   - `setImmediate`
-  - `nextTick`: 👂 heard
+  - `nextTick`: 🎓 known
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - Atomics: 👂 heard
+  - Promise unhandled rejection: 🎓 known
+  - Promise double resolve: 🎓 known
+  - Atomics: 🖐️ used
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 🎓 known
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage
@@ -82,7 +82,7 @@
   - Promise.all
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any: 👂 heard
   - Web Locks API
   - IPC
   - Channel API

@@ -14,17 +14,17 @@
   - `null`: 🖐️ used
   - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
-  - `...spread`: 🎓 known
-  - `...rest`: 🎓 known
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
   - `typeof`: 🖐️ used
-  - Destructuring: 🎓 known
+  - Destructuring: 🖐️ used
   - Generators: 🎓 known
   - Iterators: 🎓 known
   - Async generator: 👂 heard
   - Async iterator: 👂 heard
-  - Chaining: 🎓 known
-  - Optional chaining: 🎓 known
-  - IIFE: 🎓 known
+  - Chaining: 🖐️ used
+  - Optional chaining: 🖐️ used
+  - IIFE: 🖐️ used
   - Async IIFE: 🎓 known
   - `global`: 🎓 known
   - `globalThis`: 👂 heard
@@ -39,7 +39,7 @@
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
   - `yield`: 👂 heard
-  - `await`: 🎓 known
+  - `await`: 🖐️ used
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
   - Hoisting: 🖐️ used
@@ -51,9 +51,9 @@
   - `Number.parseInt`: 🎓 known
   - `Number.parseFloat`: 🎓 known
   - Property descriptors: 🖐️ used
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
+  - Sealing properties: 👂 heard
+  - Freezing properties: 👂 heard
+  - Computed properties: 🎓 known
   - Instance class fields: 🖐️ used
   - Static class fields: 🖐️ used
   - Private class fields: 🖐️ used
@@ -71,7 +71,7 @@
   - `continue`: 🖐️ used
   - `import`: 🖐️ used
   - `export`: 🖐️ used
-  - `label`
+  - `label`: 👂 heard
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
@@ -80,7 +80,7 @@
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
-  - Async function: 🎓 known
+  - Async function: 🖐️ used
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
@@ -91,13 +91,13 @@
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`: 🎓 known
-  - `Set`: 🎓 known
-  - `WeakMap`
-  - `WeakSet`
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
+  - `WeakMap`: 👂 heard
+  - `WeakSet`: 👂 heard
   - Typed arrays: 🎓 known
   - Mixins
-  - `Object.assign`
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
   - `RegExp`: 🖐️ used
@@ -105,18 +105,18 @@
   - `Math`: 🖐️ used
   - `Reflect`
   - `Error`: 🖐️ used
-  - `Atomics`
+  - `Atomics`: 👂 heard
   - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 👂 heard
   - `console`: 🖐️ used
-  - Timers: 🎓 known
+  - Timers: 🖐️ used
 - Infrastructure
-  - V8
+  - V8: 👂 heard
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
-  - MDN
+  - MDN: 👂 heard
   - TC39
