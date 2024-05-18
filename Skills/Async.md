@@ -5,7 +5,7 @@
   - `try..catch`: 🖐️ used
   - Non-blocking
   - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
+  - Thread pool: k
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,20 +13,20 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions: 🎓 known
-  - Dead locks: 🎓 known
+  - Race conditions: e
+  - Dead locks: e
   - Live locks
   - Concurrent programming
-  - Parallel programming: 👂 heard
+  - Parallel programming: e
   - Actor Model
   - Thread: 🖐️ used
   - Process: 🖐️ used
 - Async contracts
-  - Callbacks: 🎓 known
+  - Callbacks: u
   - Callback-last-error-first
   - Thenable
-  - Promise: 🎓 known
-  - Async/await: 🎓 known
+  - Promise: u
+  - Async/await: u
   - Future
   - Deferred
   - Sync generator
@@ -39,7 +39,7 @@
   - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks u
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,31 +47,31 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter h
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool
+  - Async Pool h
   - Async Queue
   - Async Collector
-  - Semaphore: 👂 heard
-  - Mutex: 👂 heard
+  - Semaphore: u
+  - Mutex: u
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
+  - Timers: k
   - `setImmediate`
-  - `nextTick`: 👂 heard
+  - `nextTick`: k
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - Atomics: 👂 heard
+  - Promise unhandled rejection k
+  - Promise double resolve k
+  - Atomics: u
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell h
+  - Promise hell h
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code k
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage
@@ -82,7 +82,7 @@
   - Promise.all
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any h
   - Web Locks API
   - IPC
   - Channel API
