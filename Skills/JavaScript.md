@@ -14,17 +14,17 @@
   - `null`: 🖐️ used
   - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
-  - `...spread`: 🎓 known
-  - `...rest`: 🎓 known
+  - `...spread`: u
+  - `...rest`: u
   - `typeof`: 🖐️ used
-  - Destructuring: 🎓 known
+  - Destructuring: u
   - Generators: 🎓 known
   - Iterators: 🎓 known
   - Async generator: 👂 heard
   - Async iterator: 👂 heard
-  - Chaining: 🎓 known
-  - Optional chaining: 🎓 known
-  - IIFE: 🎓 known
+  - Chaining: u
+  - Optional chaining: u
+  - IIFE: u
   - Async IIFE: 🎓 known
   - `global`: 🎓 known
   - `globalThis`: 👂 heard
@@ -39,7 +39,7 @@
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
   - `yield`: 👂 heard
-  - `await`: 🎓 known
+  - `await`: u
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
   - Hoisting: 🖐️ used
@@ -51,8 +51,8 @@
   - `Number.parseInt`: 🎓 known
   - `Number.parseFloat`: 🎓 known
   - Property descriptors: 🖐️ used
-  - Sealing properties
-  - Freezing properties
+  - Sealing properties h
+  - Freezing properties h
   - Computed properties
   - Instance class fields: 🖐️ used
   - Static class fields: 🖐️ used
@@ -80,7 +80,7 @@
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
-  - Async function: 🎓 known
+  - Async function: u
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
@@ -91,13 +91,13 @@
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`: 🎓 known
-  - `Set`: 🎓 known
+  - `Map`: u
+  - `Set`: u
   - `WeakMap`
   - `WeakSet`
   - Typed arrays: 🎓 known
   - Mixins
-  - `Object.assign`
+  - `Object.assign` k
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
   - `RegExp`: 🖐️ used
@@ -105,18 +105,18 @@
   - `Math`: 🖐️ used
   - `Reflect`
   - `Error`: 🖐️ used
-  - `Atomics`
+  - `Atomics` h
   - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`: 👂 heard
   - `console`: 🖐️ used
-  - Timers: 🎓 known
+  - Timers: u
 - Infrastructure
-  - V8
+  - V8 h
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
-  - MDN
+  - MDN h
   - TC39
