@@ -64,17 +64,17 @@
 | [Java](/Skills/Java.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Code basics | `0` | `0` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Methods | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Recursion: 🖐️ used | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Recursion e | `0` | `0` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Classes and objects | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enum classes: 🎓 known | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Class `Object`: 🖐️ used | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Packages: 🎓 known | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enum classes h | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Class `Object` e | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Packages k | `0` | `0` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Object-Oriented Programming (OOP) | `0` | `0` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Generics | `0` | `0` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functional programming | `0` | `0` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Input/Output | `0` | `0` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Multithreading | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Date/Time API: 🖐️ used | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Date/Time API u | `0` | `0` |
 | [React](/Skills/React.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `28` | `38` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Hooks | `3` | `14` |
