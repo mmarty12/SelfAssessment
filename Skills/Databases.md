@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types h
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store e
   - Tuple store
-  - Graph databases
-  - Object databases
+  - Graph databases k
+  - Object databases k
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -22,7 +22,7 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram e
   - Normal forms
   - Indexing
   - Primary keys
@@ -31,34 +31,34 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` k
+  - `INSERT` k
+  - `UPDATE` k
+  - `DELETE` k
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN` h
   - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
+  - `LEFT JOIN` h
+  - `RIGHT JOIN` h
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
+  - `WHERE` h
+  - `LIKE` h
+  - `IN` h
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` k
   - `ALTER TABLE`
-  - `DROP TABLE`
+  - `DROP TABLE` k
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
@@ -72,23 +72,23 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL h
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB u
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite h
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
+  - Big data h
+  - Data analysis h
   - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Cloud databases h
+  - Data Visualization h
