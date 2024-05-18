@@ -3,9 +3,9 @@
 - Theory
   - Event loop: 🎓 known
   - `try..catch`: 🖐️ used
-  - Non-blocking k
+  - Non-blocking: 🎓 known
   - Async I/O: 👂 heard
-  - Thread pool: k
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,20 +13,20 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions: e
-  - Dead locks: e
+  - Race conditions: 🙋 explained
+  - Dead locks: 🙋 explained
   - Live locks
   - Concurrent programming
-  - Parallel programming: e
+  - Parallel programming: 🙋 explained
   - Actor Model
   - Thread: 🖐️ used
   - Process: 🖐️ used
 - Async contracts
-  - Callbacks: u
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise: u
-  - Async/await: u
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
@@ -39,7 +39,7 @@
   - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
-  - Locks u
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,31 +47,31 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter h
+  - EventEmitter: 👂 heard
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool h
+  - Async Pool: 👂 heard
   - Async Queue
   - Async Collector
-  - Semaphore: u
-  - Mutex: u
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: k
+  - Timers: 🎓 known
   - `setImmediate`
-  - `nextTick`: k
+  - `nextTick`: 🎓 known
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection k
-  - Promise double resolve k
-  - Atomics: u
+  - Promise unhandled rejection: 🎓 known
+  - Promise double resolve: 🎓 known
+  - Atomics: 🖐️ used
   - High resolution clock
-  - Callback hell h
-  - Promise hell h
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
-  - Error handling in async code k
+  - Error handling in async code: 🎓 known
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage
@@ -82,7 +82,7 @@
   - Promise.all
   - Promise.allSettled
   - Promise.race
-  - Promise.any h
+  - Promise.any: 👂 heard
   - Web Locks API
   - IPC
   - Channel API

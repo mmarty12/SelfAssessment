@@ -1,14 +1,14 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming k
-  - Imperative programming k
-  - Structured programming h
-  - Non-structured programming h
-  - Functional programming: k
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
+  - Functional programming: 🎓 known
   - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🙋 explained
-  - Object-based programming: k
+  - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
   - Concurrent computing
   - Asynchronous programming: 🙋 explained
@@ -16,8 +16,8 @@
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages h
-  - Multi-paradigm programming: k
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -25,13 +25,13 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition h
+  - Class composition: 👂 heard
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Async method: u
+  - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
@@ -39,14 +39,14 @@
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class: u
-  - Interface: u
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
   - Hidden class: 🎓 known
-  - Object form h
+  - Object form: 👂 heard
   - Instance: 🖐️ used
   - Introspection
-  - Reflection h
+  - Reflection: 👂 heard
   - The diamond problem
 - GRASP
   - Information expert
@@ -58,7 +58,7 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) e
+  - Single-responsibility principle (SRP): 🙋 explained
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
@@ -66,13 +66,13 @@
 - Patterns
   - Singleton: 👂 heard
   - Factory Method: 👂 heard
-  - Abstract Factory h
+  - Abstract Factory: 👂 heard
   - Adapter
   - Observer
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility k
+  - Chain of Responsibility: 🎓 known
   - Command
   - Iterator
   - State

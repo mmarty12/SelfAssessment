@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
+  - Data types: 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store e
+  - Key-value store: 🙋 explained
   - Tuple store
-  - Graph databases k
-  - Object databases k
+  - Graph databases: 🎓 known
+  - Object databases: 🎓 known
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -22,7 +22,7 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram e
+  - Entity-Relationship Diagram: 🙋 explained
   - Normal forms
   - Indexing
   - Primary keys
@@ -31,34 +31,34 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions h
+  - SQL functions: 👂 heard
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` k
-  - `INSERT` k
-  - `UPDATE` k
-  - `DELETE` k
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN` h
+  - `JOIN`: 👂 heard
   - `INNER JOIN`
-  - `LEFT JOIN` h
-  - `RIGHT JOIN` h
+  - `LEFT JOIN`: 👂 heard
+  - `RIGHT JOIN`: 👂 heard
   - `UNION`
   - `DISTINCT`
-  - `WHERE` h
-  - `LIKE` h
-  - `IN` h
+  - `WHERE`: 👂 heard
+  - `LIKE`: 👂 heard
+  - `IN`: 👂 heard
   - `BETWEEN`
-  - `CREATE TABLE` k
+  - `CREATE TABLE`: 🎓 known
   - `ALTER TABLE`
-  - `DROP TABLE` k
+  - `DROP TABLE`: 🎓 known
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
@@ -72,23 +72,23 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL h
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB u
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
-  - SQLite h
+  - SQLite: 👂 heard
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data h
-  - Data analysis h
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
   - AI tools
-  - Cloud databases h
-  - Data Visualization h
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard

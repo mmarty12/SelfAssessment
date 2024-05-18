@@ -1,47 +1,47 @@
 ## React
 
 - Main concepts
-  - JSX k
-  - Virtual DOM k
-  - Functional component u
-  - Class component u
+  - JSX: 🎓 known
+  - Virtual DOM: 🎓 known
+  - Functional component: 🖐️ used
+  - Class component: 🖐️ used
   - Dumb component
   - Smart component
-  - Rendering a component e
-  - Props u
-  - State u
-  - Composing components e
-  - Extracting components e
-  - Lifecycle components k
-  - Conditional rendering e
-  - The Data Flows Down h
-  - Handling Events k
-  - Prevent from Rendering h
-  - Multiple Rendering h
+  - Rendering a component: 🙋 explained
+  - Props: 🖐️ used
+  - State: 🖐️ used
+  - Composing components: 🙋 explained
+  - Extracting components: 🙋 explained
+  - Lifecycle components: 🎓 known
+  - Conditional rendering: 🙋 explained
+  - The Data Flows Down: 👂 heard
+  - Handling Events: 🎓 known
+  - Prevent from Rendering: 👂 heard
+  - Multiple Rendering: 👂 heard
   - Controlled Components
-  - Lifting State Up h
-  - Composition vs Inheritance 
-  - Code-Splitting k
-  - Bundling k
-  - React.lazy h
+  - Lifting State Up: 👂 heard
+  - Composition vs Inheritance
+  - Code-Splitting: 🎓 known
+  - Bundling: 🎓 known
+  - React.lazy: 👂 heard
   - Suspense and fallbacks
-  - Named Exports h
-  - React Context h
-  - Context.Provider h
-  - Context.Consumer h
+  - Named Exports: 👂 heard
+  - React Context: 👂 heard
+  - Context.Provider: 👂 heard
+  - Context.Consumer: 👂 heard
   - Error Boundaries
   - Refs
   - Forwarding refs
-  - Fragments e
-  - Higher-Order Component h
+  - Fragments: 🙋 explained
+  - Higher-Order Component: 👂 heard
   - Portals
   - Profiler
-  - Render Props k
-  - Strict Mode u
-  - Uncontrolled Components h
+  - Render Props: 🎓 known
+  - Strict Mode: 🖐️ used
+  - Uncontrolled Components: 👂 heard
 - Hooks
-  - useState u
-  - useEffect u
+  - useState: 🖐️ used
+  - useEffect: 🖐️ used
   - useReducer
   - useContext
   - useRef
@@ -53,38 +53,38 @@
   - useId
   - useDebugValue
   - useImperativeHandle
-  - Custom Hooks h
+  - Custom Hooks: 👂 heard
 - Antipatterns
-  - Props drilling k
+  - Props drilling: 🎓 known
   - Props Plowing
   - Props mutation
-  - setState() is async k
-  - Nested components e
-  - Huge component trees e
-  - Passing all props with spread everywhere h
-  - Passing too much information to components e
-  - Overoptimizing performance h
-  - Async functions in useEffect h
-  - Multiple useState hooks h
+  - setState() is async: 🎓 known
+  - Nested components: 🙋 explained
+  - Huge component trees: 🙋 explained
+  - Passing all props with spread everywhere: 👂 heard
+  - Passing too much information to components: 🙋 explained
+  - Overoptimizing performance: 👂 heard
+  - Async functions in useEffect: 👂 heard
+  - Multiple useState hooks: 👂 heard
 - Environment
   - React Router
-  - React Redux h
-  - React Dom u
+  - React Redux: 👂 heard
+  - React Dom: 🖐️ used
   - Redux Thunk
   - Redux Final Form
   - Formik
-  - Babel u
-  - Sass u
+  - Babel: 🖐️ used
+  - Sass: 🖐️ used
   - Tailwind
   - Styled Components
   - Next
-  - Vite u
+  - Vite: 🖐️ used
   - Webpack
   - Hook form
-  - React DevTool u
-  - Redux DevTools h
-  - Jest u
-  - React Testing Library k
+  - React DevTool: 🖐️ used
+  - Redux DevTools: 👂 heard
+  - Jest: 🖐️ used
+  - React Testing Library: 🎓 known
   - Reselect
 - React Native
   - Crossplatform Components (View, Text, Image, Picker, etc.)

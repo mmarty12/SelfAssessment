@@ -7,7 +7,7 @@
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
   - Semantics
-  - Abstraction k
+  - Abstraction: 🎓 known
   - Paradigm: 🙋 explained
   - Programm: 🙋 explained
   - Programming paradigm: 🙋 explained
@@ -26,11 +26,11 @@
   - Software engineering: 🙋 explained
   - Decomposition: 🙋 explained
   - Control flow
-  - Data flow: k
-  - Code reuse e
+  - Data flow: 🎓 known
+  - Code reuse: 🙋 explained
   - Defensive programming
   - Don't repeat yourself (DRY): 🙋 explained
-  - KISS principle e
+  - KISS principle: 🙋 explained
 - Syntax and concepts
   - Value: 🙋 explained
   - Identifier: 🙋 explained
@@ -54,16 +54,16 @@
   - Loops: 🙋 explained
   - Assignment: 🙋 explained
   - Regular expression: 🙋 explained
-  - Interface: u
-  - Namespaces h
-  - Call stack: e
+  - Interface: 🖐️ used
+  - Namespaces: 👂 heard
+  - Call stack: 🙋 explained
   - Naming conventions: 🙋 explained
   - Coding conventions: 🙋 explained
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
   - Kebab case
   - Trailing commas
-  - Return early k
+  - Return early: 🎓 known
   - Fail-fast
 - Types
   - Primitive types: 🙋 explained
@@ -81,7 +81,7 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature: e
+  - Signature: 🙋 explained
   - Argument: 🙋 explained
   - Parameter: 🙋 explained
   - Pure function: 🎓 known
@@ -163,7 +163,7 @@
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
-  - Unittesting e
+  - Unittesting: 🙋 explained
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🙋 explained
@@ -180,7 +180,7 @@
   - Action at a distance
   - Spaghetti: 🙋 explained
   - Silver bullet: 🙋 explained
-  - Not invented here h
+  - Not invented here: 👂 heard
   - Dead code: 👂 heard
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
@@ -191,10 +191,10 @@
   - Long inheritance: 🙋 explained
   - Large class/file: 🙋 explained
   - Too many parameters: 🙋 explained
-  - Pass-through parameters: e
+  - Pass-through parameters: 🙋 explained
   - Accumulate and fire
   - Use switch/case: 🙋 explained
-  - Temporary field h
+  - Temporary field: 👂 heard
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments: 👂 heard
   - Data clump
@@ -203,14 +203,14 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode: 🎓 known
-  - V8 h
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers: k
-  - Kernel: k
+  - Drivers: 🎓 known
+  - Kernel: 🎓 known
   - Ring
   - Virtual memory: 👂 heard
   - File system: 🙋 explained
@@ -222,7 +222,7 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII: k
+  - ASCII: 🎓 known
   - Escape sequence
   - RFC
   - IETF

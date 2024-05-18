@@ -9,7 +9,7 @@
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code k
+  - Multiparadigm code: 🎓 known
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,14 +18,14 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability h
+  - Reliability: 👂 heard
   - Quality: 🙋 explained
   - Availability: 🙋 explained
   - Flexibility: 🙋 explained
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 🎓 known
-  - Domain-specific language (DSL) h
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
@@ -42,8 +42,8 @@
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - E-R data modeling u
-  - Entity-relationship diagram u
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
   - UML: 👂 heard
   - Work breakdown structure
@@ -61,34 +61,34 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS) e
-  - Solution visions e
-  - Solution capabilities e
-  - System design e
+  - A software requirements specification (SRS): 🙋 explained
+  - Solution visions: 🙋 explained
+  - Solution capabilities: 🙋 explained
+  - System design: 🙋 explained
   - Process modelling
   - Data modelling
-  - Solution components e
-  - Risk assessment e
-  - Non Functional Requirements (NFR) e
+  - Solution components: 🙋 explained
+  - Risk assessment: 🙋 explained
+  - Non Functional Requirements (NFR): 🙋 explained
   - Clouds
   - BPMN
   - Low-code
   - No-code
-  - Metric: e
-  - Metric abuse e
+  - Metric: 🙋 explained
+  - Metric abuse: 🙋 explained
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs k
+  - Understanding business needs: 🎓 known
   - Enterprise strategy
-  - Integration with subsystems k
-  - Enterprise vision k
-  - Enterprise capabilities k
-  - Project scope k
+  - Integration with subsystems: 🎓 known
+  - Enterprise vision: 🎓 known
+  - Enterprise capabilities: 🎓 known
+  - Project scope: 🎓 known
   - Enterprise service bus
-  - Service-oriented architecture k
-  - Microservices k
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
