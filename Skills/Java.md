@@ -1,15 +1,113 @@
 ## Java
 
 - Code basics
+  - Variables u
+  - Primitive types u
+  - String u
+  - Object u
+  - Arithmetic operators u
+  - Boolean operators u
+  - Complex conditions u
+  - if/else u
+  - switch u
+  - Arrays u
+  - for loop u
+  - while loop u
+  - do ... while loop u
+  - foreach loop k
+  - try/catch u
+  - Checked exceptions u
+  - Unchecked exceptions h
+  - Errors u
+  - List u
+  - Set u
+  - Map u
+  - Collection, Iterable k
 - Methods
+  - Arguments u
+  - Return type u
+  - Method signature k
+  - Method overloading k
+  - varargs k
 - Recursion e
 - Classes and objects
-- Enum classes h
-- Class `Object` e
+  - Properties u
+  - Methods u
+  - static u
+  - Constructors u
+  - final u
+  - this u
+  - Initializer
+  - Mutable and immutable objects k
+- Enum classes
+- Class Object
+  - toString() u
+  - equals(), hashcode() u
 - Packages k
 - Object-Oriented Programming (OOP)
+  - Abstraction k
+  - Encapsulation e
+  - Inheritance e
+  - Polymorphism e
+  - Abstract class k
+  - Abstract method k
+  - Interface k
+  - final class k
+  - final method k
+  - final property k
+  - Nested class e
+  - Inner class e
+  - public u
+  - private u
+  - protected u
+  - package-private e
+  - Cast operator
+  - instanceof e
 - Generics
+  - Class with type arguments u
+  - Method with type arguments u
+  - Bounded type arguments k
+  - Type erasure
+  - Type inference
+  - Diamond operator <> e
+  - Unbounded wildcard
+  - Upper-bounded wildcard
+  - Lower-bounded wildcard
 - Functional programming
+  - Functional interfaces k
+  - Lambdas u
+  - Method references k
+  - Java Stream API u
 - Input/Output
+  - InputStream and OutputStream u
+  - `try/catch` with resource u
+	- `Scanner` e
+	- `ByteArrayOutputStream` e
+	- `ByteArrayInputStream` e
+	- `DataOutputStream` e
+	- `DataInputStream` e
+- Readers and Writers
+  - `OutputStreamWriter` e
+	- `InputStreamReader` e
+- Serialization u
+- Working with files
+  - `BufferedOutputStream` e
+	- `BufferedInputStream` e
+	- `BufferedWriter` e
+	- `BufferedReader` e
+	- `File` e
+	- `RandomAccessFile` e
+	- `FileInputStream` e
+	- `FileOutputStream` e
 - Multithreading
+  - Thread u
+  - Runnable u
+  - Semaphore u
+  - Lock u
+  - Atomic types and operations u
+  - Monitors u
+  - synchronized methods u
+  - synchronized blocks u
+  - Synchronized collections k
+  - Dead locks, race conditions u
 - Date/Time API u
