@@ -1,14 +1,14 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming: 👂 heard
+  - Procedural programming k
+  - Imperative programming k
+  - Structured programming h
+  - Non-structured programming h
+  - Functional programming: k
   - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🙋 explained
-  - Object-based programming: 👂 heard
+  - Object-based programming: k
   - Generic programming: 👂 heard
   - Concurrent computing
   - Asynchronous programming: 🙋 explained
@@ -16,8 +16,8 @@
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming: 👂 heard
+  - Domain-specific languages h
+  - Multi-paradigm programming: k
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -25,13 +25,13 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition h
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
   - Static method: 🖐️ used
   - Method: 🖐️ used
-  - Async method: 🎓 known
+  - Async method: u
   - Getters, Setters: 🖐️ used
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
@@ -39,14 +39,14 @@
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class: 🎓 known
-  - Interface: 🎓 known
+  - Abstract class: u
+  - Interface: u
   - Encapsulation: 🖐️ used
   - Hidden class: 🎓 known
-  - Object form
+  - Object form h
   - Instance: 🖐️ used
   - Introspection
-  - Reflection
+  - Reflection h
   - The diamond problem
 - GRASP
   - Information expert
@@ -66,7 +66,7 @@
 - Patterns
   - Singleton: 👂 heard
   - Factory Method: 👂 heard
-  - Abstract Factory
+  - Abstract Factory h
   - Adapter
   - Observer
   - Strategy
