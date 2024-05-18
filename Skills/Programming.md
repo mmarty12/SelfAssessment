@@ -7,7 +7,7 @@
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
   - Semantics
-  - Abstraction
+  - Abstraction k
   - Paradigm: 🙋 explained
   - Programm: 🙋 explained
   - Programming paradigm: 🙋 explained
@@ -26,11 +26,11 @@
   - Software engineering: 🙋 explained
   - Decomposition: 🙋 explained
   - Control flow
-  - Data flow: 👂 heard
-  - Code reuse
+  - Data flow: k
+  - Code reuse e
   - Defensive programming
   - Don't repeat yourself (DRY): 🙋 explained
-  - KISS principle
+  - KISS principle e
 - Syntax and concepts
   - Value: 🙋 explained
   - Identifier: 🙋 explained
@@ -54,16 +54,16 @@
   - Loops: 🙋 explained
   - Assignment: 🙋 explained
   - Regular expression: 🙋 explained
-  - Interface: 👂 heard
-  - Namespaces
-  - Call stack: 🎓 known
+  - Interface: u
+  - Namespaces h
+  - Call stack: e
   - Naming conventions: 🙋 explained
   - Coding conventions: 🙋 explained
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early k
   - Fail-fast
 - Types
   - Primitive types: 🙋 explained
@@ -81,7 +81,7 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature: 🎓 known
+  - Signature: e
   - Argument: 🙋 explained
   - Parameter: 🙋 explained
   - Pure function: 🎓 known
@@ -163,7 +163,7 @@
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
-  - Unittesting
+  - Unittesting e
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🙋 explained
@@ -180,7 +180,7 @@
   - Action at a distance
   - Spaghetti: 🙋 explained
   - Silver bullet: 🙋 explained
-  - Not invented here
+  - Not invented here h
   - Dead code: 👂 heard
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
@@ -191,10 +191,10 @@
   - Long inheritance: 🙋 explained
   - Large class/file: 🙋 explained
   - Too many parameters: 🙋 explained
-  - Pass-through parameters: 🎓 known
+  - Pass-through parameters: e
   - Accumulate and fire
   - Use switch/case: 🙋 explained
-  - Temporary field
+  - Temporary field h
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments: 👂 heard
   - Data clump
@@ -203,14 +203,14 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode: 🎓 known
-  - V8
+  - V8 h
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers: 👂 heard
-  - Kernel: 👂 heard
+  - Drivers: k
+  - Kernel: k
   - Ring
   - Virtual memory: 👂 heard
   - File system: 🙋 explained
@@ -222,7 +222,7 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII: 👂 heard
+  - ASCII: k
   - Escape sequence
   - RFC
   - IETF
