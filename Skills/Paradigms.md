@@ -58,7 +58,7 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP) e
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
@@ -72,7 +72,7 @@
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility
+  - Chain of Responsibility k
   - Command
   - Iterator
   - State
