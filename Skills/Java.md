@@ -1,113 +1,100 @@
 ## Java
 
 - Code basics
-  - Variables u
-  - Primitive types u
-  - String u
-  - Object u
-  - Arithmetic operators u
-  - Boolean operators u
-  - Complex conditions u
-  - if/else u
-  - switch u
-  - Arrays u
-  - for loop u
-  - while loop u
-  - do ... while loop u
-  - foreach loop k
-  - try/catch u
-  - Checked exceptions u
-  - Unchecked exceptions h
-  - Errors u
-  - List u
-  - Set u
-  - Map u
-  - Collection, Iterable k
+  - Variables: 🖐️ used
+  - Primitive types: 🖐️ used
+  - String: 🖐️ used
+  - Object: 🖐️ used
+  - Arithmetic operators: 🖐️ used
+  - Boolean operators: 🖐️ used
+  - Complex conditions: 🖐️ used
+  - if/else: 🖐️ used
+  - switch: 🖐️ used
+  - Arrays: 🖐️ used
+  - for loop: 🖐️ used
+  - while loop: 🖐️ used
+  - do ... while loop: 🖐️ used
+  - foreach loop: 🎓 known
+  - try/catch: 🖐️ used
+  - Checked exceptions: 🖐️ used
+  - Unchecked exceptions: 👂 heard
+  - Errors: 🖐️ used
+  - List: 🖐️ used
+  - Set: 🖐️ used
+  - Map: 🖐️ used
+  - Collection, Iterable: 🎓 known
 - Methods
-  - Arguments u
-  - Return type u
-  - Method signature k
-  - Method overloading k
-  - varargs k
+  - Arguments: 🖐️ used
+  - Return type: 🖐️ used
+  - Method signature: 🎓 known
+  - Method overloading: 🎓 known
+  - varargs: 🎓 known
 - Recursion e
 - Classes and objects
-  - Properties u
-  - Methods u
-  - static u
-  - Constructors u
-  - final u
-  - this u
+  - Properties: 🖐️ used
+  - Methods: 🖐️ used
+  - static: 🖐️ used
+  - Constructors: 🖐️ used
+  - final: 🖐️ used
+  - this: 🖐️ used
   - Initializer
-  - Mutable and immutable objects k
+  - Mutable and immutable objects: 🎓 known
 - Enum classes
 - Class Object
-  - toString() u
-  - equals(), hashcode() u
+  - toString(): 🖐️ used
+  - equals(), hashcode(): 🖐️ used
 - Packages k
 - Object-Oriented Programming (OOP)
-  - Abstraction k
-  - Encapsulation e
-  - Inheritance e
-  - Polymorphism e
-  - Abstract class k
-  - Abstract method k
-  - Interface k
-  - final class k
-  - final method k
-  - final property k
-  - Nested class e
-  - Inner class e
-  - public u
-  - private u
-  - protected u
-  - package-private e
+  - Abstraction: 🎓 known
+  - Encapsulation: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🎓 known
+  - Abstract method: 🎓 known
+  - Interface: 🎓 known
+  - final class: 🎓 known
+  - final method: 🎓 known
+  - final property: 🎓 known
+  - Nested class: 🙋 explained
+  - Inner class: 🙋 explained
+  - public: 🖐️ used
+  - private: 🖐️ used
+  - protected: 🖐️ used
+  - package-private: 🙋 explained
   - Cast operator
-  - instanceof e
+  - instanceof: 🙋 explained
 - Generics
-  - Class with type arguments u
-  - Method with type arguments u
-  - Bounded type arguments k
+  - Class with type arguments: 🖐️ used
+  - Method with type arguments: 🖐️ used
+  - Bounded type arguments: 🎓 known
   - Type erasure
   - Type inference
-  - Diamond operator <> e
+  - Diamond operator <>: 🙋 explained
   - Unbounded wildcard
   - Upper-bounded wildcard
   - Lower-bounded wildcard
 - Functional programming
-  - Functional interfaces k
-  - Lambdas u
-  - Method references k
-  - Java Stream API u
+  - Functional interfaces: 🎓 known
+  - Lambdas: 🖐️ used
+  - Method references: 🎓 known
+  - Java Stream API: 🖐️ used
 - Input/Output
-  - InputStream and OutputStream u
-  - `try/catch` with resource u
-	- `Scanner` e
-	- `ByteArrayOutputStream` e
-	- `ByteArrayInputStream` e
-	- `DataOutputStream` e
-	- `DataInputStream` e
+  - InputStream and OutputStream: 🖐️ used
+  - `try/catch` with resource: 🖐️ used
 - Readers and Writers
-  - `OutputStreamWriter` e
-	- `InputStreamReader` e
+  - `OutputStreamWriter`: 🙋 explained
 - Serialization u
 - Working with files
-  - `BufferedOutputStream` e
-	- `BufferedInputStream` e
-	- `BufferedWriter` e
-	- `BufferedReader` e
-	- `File` e
-	- `RandomAccessFile` e
-	- `FileInputStream` e
-	- `FileOutputStream` e
+  - `BufferedOutputStream`: 🙋 explained
 - Multithreading
-  - Thread u
-  - Runnable u
-  - Semaphore u
-  - Lock u
-  - Atomic types and operations u
-  - Monitors u
-  - synchronized methods u
-  - synchronized blocks u
-  - Synchronized collections k
-  - Dead locks, race conditions u
+  - Thread: 🖐️ used
+  - Runnable: 🖐️ used
+  - Semaphore: 🖐️ used
+  - Lock: 🖐️ used
+  - Atomic types and operations: 🖐️ used
+  - Monitors: 🖐️ used
+  - synchronized methods: 🖐️ used
+  - synchronized blocks: 🖐️ used
+  - Synchronized collections: 🎓 known
+  - Dead locks, race conditions: 🖐️ used
 - Date/Time API u

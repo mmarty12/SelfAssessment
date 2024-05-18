@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-428&nbsp;/&nbsp;774&nbsp;/&nbsp;819-FF3300?style=flat-square)](https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-503&nbsp;/&nbsp;856&nbsp;/&nbsp;901-FF3300?style=flat-square)](https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-428&nbsp;/&nbsp;774&nbsp;/&nbsp;819-FF3300?style=flat-square)](https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-503&nbsp;/&nbsp;856&nbsp;/&nbsp;901-FF3300?style=flat-square)](https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-428&nbsp;/&nbsp;774&nbsp;/&nbsp;819-FF3300?style=flat-square"></a>
+<a href="https://github.com/mmarty12/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-503&nbsp;/&nbsp;856&nbsp;/&nbsp;901-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -62,18 +62,21 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `9` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `7` | `18` |
 | [Java](/Skills/Java.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Code basics | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Methods | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Code basics | `22` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Methods | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Recursion e | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Classes and objects | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enum classes h | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Class `Object` e | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Classes and objects | `7` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enum classes | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Class Object | `2` | `2` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Packages k | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Object-Oriented Programming (OOP) | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Generics | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functional programming | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Input/Output | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Multithreading | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Object-Oriented Programming (OOP) | `17` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Generics | `4` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functional programming | `4` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Input/Output | `2` | `2` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Readers and Writers | `1` | `1` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Serialization u | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Working with files | `1` | `1` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Multithreading | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Date/Time API u | `0` | `0` |
 | [React](/Skills/React.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `28` | `38` |
