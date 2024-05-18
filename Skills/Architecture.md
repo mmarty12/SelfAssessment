@@ -9,7 +9,7 @@
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code k
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,14 +18,14 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
+  - Reliability h
   - Quality: 🙋 explained
   - Availability: 🙋 explained
   - Flexibility: 🙋 explained
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 🎓 known
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL) h
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
@@ -42,8 +42,8 @@
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling u
+  - Entity-relationship diagram u
   - IDEF1X
   - UML: 👂 heard
   - Work breakdown structure
@@ -61,34 +61,34 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
+  - A software requirements specification (SRS) e
+  - Solution visions e
+  - Solution capabilities e
+  - System design e
   - Process modelling
   - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
+  - Solution components e
+  - Risk assessment e
+  - Non Functional Requirements (NFR) e
   - Clouds
   - BPMN
   - Low-code
   - No-code
-  - Metric: 👂 heard
-  - Metric abuse
+  - Metric: e
+  - Metric abuse e
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs k
   - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
+  - Integration with subsystems k
+  - Enterprise vision k
+  - Enterprise capabilities k
+  - Project scope k
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture k
+  - Microservices k
   - Process choreography
   - Service orchestration
   - Data warehouse
